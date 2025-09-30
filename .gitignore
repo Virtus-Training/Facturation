@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Base de données
+*.db
+*.sqlite
+*.sqlite3
+
+# Documents générés
+documents/factures/**/*.pdf
+documents/devis/**/*.pdf
+documents/avoirs/**/*.pdf
+
+# Logs
+*.log
+
+# Backups
+backups/
+*.bak
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Configuration locale (ne pas commiter les données sensibles)
+config_local.py

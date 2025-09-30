@@ -1,0 +1,13 @@
+# Interface graphique
+PyQt6==6.7.1
+PyQt6-Qt6==6.7.3
+
+# Base de données
+SQLAlchemy==2.0.35
+
+# Génération PDF
+reportlab==4.2.5
+Pillow==10.4.0
+
+# Utilitaires
+python-dateutil==2.9.0

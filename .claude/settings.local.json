@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python:*)",
+      "Bash(pip install:*)",
+      "Bash(timeout:*)",
+      "Bash(dir:*)",
+      "Bash(findstr:*)",
+      "Bash(tree:*)",
+      "Bash(if exist databasefacturation.db del databasefacturation.db)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
